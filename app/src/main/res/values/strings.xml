@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">PayBook</string>
+    <string name="app_subname">Ultimate
+    Payments
+    Registering
+    Tool</string>
+    <string name="login_title">Login</string>
+    <string name="login_email">E-mail address</string>
+    <string name="login_pass">Password</string>
+    <string name="login_desc1">Enter e-mail address and your password to log into your account</string>
+    <string name="login_desc2">If you are using this app for the first time, go to Account registration section using the button below.</string>
+    <string name="login_button_login">Login</string>
+    <string name="login_button_register">REGISTER</string>
+    <string name="register_title">REGISTER</string>
+    <string name="register_desc1">Fill in below your email, desired password and a name that will be displayed in the app</string>
+    <string name="register_email">E-mail address</string>
+    <string name="register_pass">Password</string>
+    <string name="register_name">Displayed name</string>
+    <string name="register_button_register">REGISTER</string>
+    <string name="register_button_reset">RESET</string>
+    <string name="auth_failed">Incorrect email or password.</string>
+    <string name="login_email_empty">Email address not entered!</string>
+    <string name="login_pass_empty">Password cannot be empty</string>
+    <string name="register_data_empty">Email, Password and Name cannot be empty</string>
+    <string name="register_failed">Registration failed.</string>
+    <string name="register_success">Registration successful, logging in</string>
+    <string name="login_success">Login successful</string>
+    <string name="add_payment_title">Add Payment</string>
+    <string name="add_payment_amount">Cash amount</string>
+    <string name="add_payment_shop">Optional: Purchase place</string>
+    <string name="add_payment_type">Purchase type</string>
+    <string name="add_payment_date">Purchase date</string>
+    <string name="add_payment_button_add">Add</string>
+    <string name="add_payment_button_cancel">Cancel</string>
+    <string name="dash_button_add_payment">Add payment</string>
+    <string name="payment_title">Edit payment</string>
+    <string name="payment_button_save">Save</string>
+    <string name="payment_button_delete">DELETE</string>
+    <string name="edit_payment_button_save">Save changes</string>
+    <string name="edit_payment_title">Edit</string>
+
+</resources>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\miskra\\AndroidStudioProjects\\PayBook\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\miskra\\.android\\build-cache\\51a8afe74ea861a627b428487f979313090ac89e\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\miskra\\AndroidStudioProjects\\PayBook\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\miskra\\.android\\build-cache\\51a8afe74ea861a627b428487f979313090ac89e\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\miskra\\AndroidStudioProjects\\PayBook\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\miskra\\.android\\build-cache\\51a8afe74ea861a627b428487f979313090ac89e\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\miskra\\AndroidStudioProjects\\PayBook\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\miskra\\.android\\build-cache\\51a8afe74ea861a627b428487f979313090ac89e\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

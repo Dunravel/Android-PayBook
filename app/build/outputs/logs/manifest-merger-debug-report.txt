@@ -1,0 +1,275 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:5:5-27:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\miskra\.android\build-cache\51a8afe74ea861a627b428487f979313090ac89e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\miskra\.android\build-cache\5fbb343344926ee97f5c7c99fe0d1725ebf47eaf\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\miskra\.android\build-cache\3c136ec502ed3b68b1a826b00d2d0833e0e7f9ec\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\miskra\.android\build-cache\fe73b6bcb702bf97d816ecc64dbec5c895cf31e5\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\miskra\.android\build-cache\2b13b27c4e1c8aecd11ce4d5ef6a1d8541a0e81f\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\miskra\.android\build-cache\1d22237da87658c2a76e6512770cb04500725186\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\miskra\.android\build-cache\9f88c5cdef38d440c380ff453e75e564d709ec4d\output\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\miskra\.android\build-cache\3b591fe0c53d0f5385cb880272ba0cd583d464be\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\miskra\.android\build-cache\cf1cedc6e78e907a0f715857bd8006d04a9e3bd7\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\miskra\.android\build-cache\ce0c42a481c485e5c28c15e355d46f768b3d7c2a\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\miskra\.android\build-cache\45e5cd7ce1482a01f59ecdc02f1e81fec7f85def\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\miskra\.android\build-cache\d722a2e95fa369509e36603bc694dd3cbb696c35\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\miskra\.android\build-cache\ce04802fd4089888826adebb5ede8bf03aa61374\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\miskra\.android\build-cache\222024eb260903999e4af75d1c2af7c158dfd0d0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\miskra\.android\build-cache\52d86fa2a45deebd947cbcd5a3644303dac3e049\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\miskra\.android\build-cache\3c0309d9e0252d84747b71900c39f62abf261be2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\miskra\.android\build-cache\ee2ab3970f82359360d9c854166d67dd8c4fba2c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\miskra\.android\build-cache\f93234d19c775e3a2fd5b550a807971950d1d919\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\miskra\.android\build-cache\d2f2f6ab3926e6a60ba176e4ea08f80bedaebfb5\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.miskra.paybook.IntroScreen
+ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:12:19-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.miskra.paybook.LoginScreen
+ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:19:9-49
+	android:name
+		ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:19:19-46
+activity#com.example.miskra.paybook.DashboardScreen
+ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:20:9-53
+	android:name
+		ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:20:19-50
+activity#com.example.miskra.paybook.RegisterScreen
+ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:21:9-52
+	android:name
+		ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:21:19-49
+activity#com.example.miskra.paybook.PaymentsScreen
+ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:22:9-52
+	android:name
+		ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:22:19-49
+activity#com.example.miskra.paybook.AddPaymentScreen
+ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:23:9-54
+	android:name
+		ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:23:19-51
+activity#com.example.miskra.paybook.PaymentScreen
+ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:24:9-51
+	android:name
+		ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:24:19-48
+activity#com.example.miskra.paybook.EditPaymentScreen
+ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:25:9-55
+	android:name
+		ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:25:19-52
+activity#com.example.miskra.paybook.GraphPaymentScreen
+ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:26:9-65
+	android:name
+		ADDED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml:26:19-53
+uses-sdk
+INJECTED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\miskra\.android\build-cache\51a8afe74ea861a627b428487f979313090ac89e\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\miskra\.android\build-cache\5fbb343344926ee97f5c7c99fe0d1725ebf47eaf\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\miskra\.android\build-cache\3c136ec502ed3b68b1a826b00d2d0833e0e7f9ec\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\miskra\.android\build-cache\fe73b6bcb702bf97d816ecc64dbec5c895cf31e5\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\miskra\.android\build-cache\2b13b27c4e1c8aecd11ce4d5ef6a1d8541a0e81f\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\miskra\.android\build-cache\1d22237da87658c2a76e6512770cb04500725186\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\miskra\.android\build-cache\afb3042bc1d5b439d3bc75c0a21b0b7e4405c19e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\miskra\.android\build-cache\d7fd0662b2b682730783a4919230edc65218783f\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\miskra\.android\build-cache\d9194f515cb01eaee7c24b59d1b91b53a783a15f\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage:10.0.1] C:\Users\miskra\.android\build-cache\34cf7335589bca78b76b3c633bfdca8c4eeff80d\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:10.0.1] C:\Users\miskra\.android\build-cache\d3f588dd2015e9ef2825c5ed456212f3cb0c8ba5\output\AndroidManifest.xml:3:5-42
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\miskra\.android\build-cache\9f88c5cdef38d440c380ff453e75e564d709ec4d\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\miskra\.android\build-cache\3b591fe0c53d0f5385cb880272ba0cd583d464be\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\miskra\.android\build-cache\cf1cedc6e78e907a0f715857bd8006d04a9e3bd7\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\miskra\.android\build-cache\ce0c42a481c485e5c28c15e355d46f768b3d7c2a\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\miskra\.android\build-cache\45e5cd7ce1482a01f59ecdc02f1e81fec7f85def\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\miskra\.android\build-cache\d722a2e95fa369509e36603bc694dd3cbb696c35\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\miskra\.android\build-cache\ce04802fd4089888826adebb5ede8bf03aa61374\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\miskra\.android\build-cache\222024eb260903999e4af75d1c2af7c158dfd0d0\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\miskra\.android\build-cache\52d86fa2a45deebd947cbcd5a3644303dac3e049\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\miskra\.android\build-cache\3c0309d9e0252d84747b71900c39f62abf261be2\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\miskra\.android\build-cache\ee2ab3970f82359360d9c854166d67dd8c4fba2c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\miskra\.android\build-cache\f93234d19c775e3a2fd5b550a807971950d1d919\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\miskra\.android\build-cache\d2f2f6ab3926e6a60ba176e4ea08f80bedaebfb5\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\miskra\.android\build-cache\51a8afe74ea861a627b428487f979313090ac89e\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\miskra\AndroidStudioProjects\PayBook\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\miskra\.android\build-cache\51a8afe74ea861a627b428487f979313090ac89e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\miskra\.android\build-cache\5fbb343344926ee97f5c7c99fe0d1725ebf47eaf\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\miskra\.android\build-cache\3c136ec502ed3b68b1a826b00d2d0833e0e7f9ec\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\miskra\.android\build-cache\afb3042bc1d5b439d3bc75c0a21b0b7e4405c19e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\miskra\.android\build-cache\222024eb260903999e4af75d1c2af7c158dfd0d0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\miskra\.android\build-cache\52d86fa2a45deebd947cbcd5a3644303dac3e049\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\miskra\.android\build-cache\3c0309d9e0252d84747b71900c39f62abf261be2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\miskra\.android\build-cache\ee2ab3970f82359360d9c854166d67dd8c4fba2c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\miskra\.android\build-cache\f93234d19c775e3a2fd5b550a807971950d1d919\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\miskra\.android\build-cache\d2f2f6ab3926e6a60ba176e4ea08f80bedaebfb5\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\miskra\.android\build-cache\51a8afe74ea861a627b428487f979313090ac89e\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\miskra\.android\build-cache\51a8afe74ea861a627b428487f979313090ac89e\output\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\miskra\.android\build-cache\1d22237da87658c2a76e6512770cb04500725186\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\miskra\.android\build-cache\1d22237da87658c2a76e6512770cb04500725186\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\miskra\.android\build-cache\1d22237da87658c2a76e6512770cb04500725186\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\miskra\.android\build-cache\1d22237da87658c2a76e6512770cb04500725186\output\AndroidManifest.xml:19:19-85
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\miskra\.android\build-cache\cf1cedc6e78e907a0f715857bd8006d04a9e3bd7\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\miskra\.android\build-cache\ce0c42a481c485e5c28c15e355d46f768b3d7c2a\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\miskra\.android\build-cache\cf1cedc6e78e907a0f715857bd8006d04a9e3bd7\output\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\miskra\.android\build-cache\cf1cedc6e78e907a0f715857bd8006d04a9e3bd7\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\miskra\.android\build-cache\ce0c42a481c485e5c28c15e355d46f768b3d7c2a\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\miskra\.android\build-cache\cf1cedc6e78e907a0f715857bd8006d04a9e3bd7\output\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\miskra\.android\build-cache\cf1cedc6e78e907a0f715857bd8006d04a9e3bd7\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\miskra\.android\build-cache\ce0c42a481c485e5c28c15e355d46f768b3d7c2a\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\miskra\.android\build-cache\cf1cedc6e78e907a0f715857bd8006d04a9e3bd7\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\miskra\.android\build-cache\cf1cedc6e78e907a0f715857bd8006d04a9e3bd7\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\miskra\.android\build-cache\ce0c42a481c485e5c28c15e355d46f768b3d7c2a\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\miskra\.android\build-cache\cf1cedc6e78e907a0f715857bd8006d04a9e3bd7\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\miskra\.android\build-cache\cf1cedc6e78e907a0f715857bd8006d04a9e3bd7\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\miskra\.android\build-cache\cf1cedc6e78e907a0f715857bd8006d04a9e3bd7\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\miskra\.android\build-cache\cf1cedc6e78e907a0f715857bd8006d04a9e3bd7\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\miskra\.android\build-cache\cf1cedc6e78e907a0f715857bd8006d04a9e3bd7\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\miskra\.android\build-cache\cf1cedc6e78e907a0f715857bd8006d04a9e3bd7\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\miskra\.android\build-cache\cf1cedc6e78e907a0f715857bd8006d04a9e3bd7\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\miskra\.android\build-cache\cf1cedc6e78e907a0f715857bd8006d04a9e3bd7\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\miskra\.android\build-cache\cf1cedc6e78e907a0f715857bd8006d04a9e3bd7\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\miskra\.android\build-cache\cf1cedc6e78e907a0f715857bd8006d04a9e3bd7\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\miskra\.android\build-cache\cf1cedc6e78e907a0f715857bd8006d04a9e3bd7\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\miskra\.android\build-cache\ce0c42a481c485e5c28c15e355d46f768b3d7c2a\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\miskra\.android\build-cache\cf1cedc6e78e907a0f715857bd8006d04a9e3bd7\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\miskra\.android\build-cache\cf1cedc6e78e907a0f715857bd8006d04a9e3bd7\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\miskra\.android\build-cache\cf1cedc6e78e907a0f715857bd8006d04a9e3bd7\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\miskra\.android\build-cache\fba282876db43b27e91fe18209bcbbdd9bcae0db\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\miskra\.android\build-cache\45e5cd7ce1482a01f59ecdc02f1e81fec7f85def\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\miskra\.android\build-cache\45e5cd7ce1482a01f59ecdc02f1e81fec7f85def\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\miskra\.android\build-cache\45e5cd7ce1482a01f59ecdc02f1e81fec7f85def\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\miskra\.android\build-cache\45e5cd7ce1482a01f59ecdc02f1e81fec7f85def\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\miskra\.android\build-cache\45e5cd7ce1482a01f59ecdc02f1e81fec7f85def\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\miskra\.android\build-cache\ce04802fd4089888826adebb5ede8bf03aa61374\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\miskra\.android\build-cache\ce04802fd4089888826adebb5ede8bf03aa61374\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\miskra\.android\build-cache\ce04802fd4089888826adebb5ede8bf03aa61374\output\AndroidManifest.xml:20:20-65

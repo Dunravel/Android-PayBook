@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\miskra\\AndroidStudioProjects\\PayBook\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_register_screen.xml",
+        "source": "C:\\Users\\miskra\\AndroidStudioProjects\\PayBook\\app\\src\\main\\res\\layout-land\\activity_register_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\miskra\\AndroidStudioProjects\\PayBook\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_login_screen.xml",
+        "source": "C:\\Users\\miskra\\AndroidStudioProjects\\PayBook\\app\\src\\main\\res\\layout-land\\activity_login_screen.xml"
+    }
+]

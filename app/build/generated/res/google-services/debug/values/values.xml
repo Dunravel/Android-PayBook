@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">643434530557-66lkllj1b9jh08rm4gb23bi2piu0ddr0.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://paybook-9de4c.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">643434530557</string>
+    <string name="google_api_key" translatable="false">AIzaSyCIU5MWD5f23KKpOWJtNpAn2kYXGL_xcqA</string>
+    <string name="google_app_id" translatable="false">1:643434530557:android:dc9a3a4fb71dfef9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCIU5MWD5f23KKpOWJtNpAn2kYXGL_xcqA</string>
+    <string name="google_storage_bucket" translatable="false">paybook-9de4c.appspot.com</string>
+</resources>

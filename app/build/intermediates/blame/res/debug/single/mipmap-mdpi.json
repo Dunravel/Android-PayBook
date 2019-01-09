@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\miskra\\AndroidStudioProjects\\PayBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\no_pop.png",
+        "source": "C:\\Users\\miskra\\AndroidStudioProjects\\PayBook\\app\\src\\main\\res\\mipmap-mdpi\\no_pop.png"
+    },
+    {
+        "merged": "C:\\Users\\miskra\\AndroidStudioProjects\\PayBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\pop.png",
+        "source": "C:\\Users\\miskra\\AndroidStudioProjects\\PayBook\\app\\src\\main\\res\\mipmap-mdpi\\pop.png"
+    },
+    {
+        "merged": "C:\\Users\\miskra\\AndroidStudioProjects\\PayBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\miskra\\AndroidStudioProjects\\PayBook\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\miskra\\AndroidStudioProjects\\PayBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\miskra\\AndroidStudioProjects\\PayBook\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

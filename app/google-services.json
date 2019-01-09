@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "643434530557",
+    "firebase_url": "https://paybook-9de4c.firebaseio.com",
+    "project_id": "paybook-9de4c",
+    "storage_bucket": "paybook-9de4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643434530557:android:dc9a3a4fb71dfef9",
+        "android_client_info": {
+          "package_name": "com.example.miskra.paybook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643434530557-2uhhba10jlbkj6n5iee4u6jt7cchv05s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.miskra.paybook",
+            "certificate_hash": "48251025c576ab3ecb3d14bdd669a5da92d0a51b"
+          }
+        },
+        {
+          "client_id": "643434530557-66lkllj1b9jh08rm4gb23bi2piu0ddr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIU5MWD5f23KKpOWJtNpAn2kYXGL_xcqA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643434530557-66lkllj1b9jh08rm4gb23bi2piu0ddr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
